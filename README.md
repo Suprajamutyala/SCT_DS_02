@@ -19,7 +19,7 @@ Features include:
 
 Target Variable:
 
-y → whether the client subscribed to a term deposit (yes/no)
+- y → whether the client subscribed to a term deposit (yes/no)
 
 # Project Workflow
 
