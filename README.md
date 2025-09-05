@@ -1,1 +1,2 @@
-# Performed data cleaning and exploratory data analysis on the Titanic dataset. Handled missing values, transformed features, and visualized survival trends by gender, class, and age. Generated insights with plots and correlation heatmaps for better understanding of data.
+# SCT_DS_02
+Performed data cleaning and exploratory data analysis on the Titanic dataset. Handled missing values, transformed features, and visualized survival trends by gender, class, and age. Generated insights with plots and correlation heatmaps for better understanding of data.
